@@ -92,7 +92,7 @@ def retrieve_top_k(query_embedding: List[float], store: List[Dict], k: int = 3) 
 # Streamlit app
 # -----------------------------
 
-st.set_page_config(page_title="Simple RAG Chatbot", layout="wide")
+st.set_page_config(page_title="Cara RAG Aga Chatbot", layout="wide")
 st.title("📚 Simple RAG Chatbot — Streamlit + OpenAI")
 
 # API key input
